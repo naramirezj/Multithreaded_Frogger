@@ -1,4 +1,13 @@
-Multithreaded Frogger
+# Multithreaded Frogger
+A Makefile is provided so the game can be compiled with the following command:
+~~~C
+make
+~~~
+
+The game can be ran as:
+~~~C
+./game.c
+~~~
 
 When ran, the game displays a menu with two options:
 START
