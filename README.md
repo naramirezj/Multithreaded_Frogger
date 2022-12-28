@@ -12,11 +12,10 @@ The game can be ran as:
 ~~~
 
 When ran, the game displays a menu with two options:
-START
-LEADER BOARD
+START and LEADER BOARD
 
 If START is pressed (with the enter key) the game will then ask for your username and then display a welcome message.
-After, the game will start. The user is the green 0 representing Froggy. 
+After, the game will start. The user is represented by a green 0. 
 The user can move with the UP, DOWN, RIGHT, and LEFT keys in the keyboard.
 The goal is to get to the other side of the window without colliding with the obstacles in each section.
 If the player collides with an obstacle the game will finish and display a loss message.
